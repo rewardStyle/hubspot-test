@@ -6,7 +6,7 @@ import requests
 import json
 import os
 
-post_url = 'http://api.hubapi.com/crm/v3/imports?hapikey=0ad67088-5064-4540-9de7-2075f371e28e'
+post_url = 'http://api.hubapi.com/crm/v3/imports?hapikey=aaaa'
 
 importRequest = {
     "name": "daily_import",
